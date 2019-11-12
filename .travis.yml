@@ -6,7 +6,3 @@ cache:
 
 script:
   - gatsby build
-
-deploy:
-  provider: netlify
-  edge: true
