@@ -1,5 +1,7 @@
 # dOrg
 
+### dOrg is a self-organized developer community that wills software into existence.
+
 ## Commands
 
 ```shell
