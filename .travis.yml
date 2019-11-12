@@ -6,3 +6,9 @@ cache:
 
 script:
   - gatsby build
+
+deploy:
+  provider: script
+  script: bash scripts/publish.sh
+  on:
+    branch: master
